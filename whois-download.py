@@ -4,7 +4,6 @@
 # Provided for subscribers of quarterly whois data feeds
 #
 # Whois API, Inc,  http://www.whoisxmlapi.com
-# Ed Gibbs
 #
 
 import sys
